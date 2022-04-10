@@ -1,0 +1,27 @@
+{
+  "name": "tomado",
+  "version": "1.0.0",
+  "description": "Combine todo list and Pomodoro Technique",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddtet/tomado.git"
+  },
+  "keywords": [
+    "Todo",
+    "Pomodoro Technique"
+  ],
+  "author": "Jeff Lin <jeffddt.et@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddtet/tomado/issues"
+  },
+  "homepage": "https://github.com/ddtet/tomado#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "jest": "^27.5.1"
+  }
+}
